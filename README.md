@@ -23,8 +23,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-08&show_icons=true&theme=cobalt2)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-08&show_icons=true&theme=shades-of-purple)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-08&show_icons=true&theme=ocean_dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-08&show_icons=true&theme=chartreuse-dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-08&show_icons=true&theme=outrun)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-08&show_icons=true&theme=chartreuse-dark) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-08&show_icons=true&theme=yeblu)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-08&show_icons=true&theme=ayu-mirage)
 
