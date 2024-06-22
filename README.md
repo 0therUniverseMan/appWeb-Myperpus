@@ -7,8 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-08&exclude_repo=Myperpus)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-08a&langs_count=8)
-
 
 [![Samuel Christoper GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-08)](https://github.com/Samuel-08/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt2)
